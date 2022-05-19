@@ -4,7 +4,7 @@ Antibody
 A plugin manager for zsh, inspired by [antigen](https://github.com/zsh-users/antigen#antigen-theme)
 
 
-# Qucick Start
+# Quick Start
 ```shell
 sudo aptitude install zsh  # for ubuntu
 sudo chsh -s zsh
